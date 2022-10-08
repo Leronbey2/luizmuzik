@@ -1,4 +1,4 @@
-# Müzik Bot 🇹🇷
+# Luiz Müzik Bot 🇹🇷
 - [Müzik Bot](https://t.me/LuizMusic_bot) Telegram Müzik Bot .
 
 # Support 
